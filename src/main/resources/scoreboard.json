@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Otto",
+    "level": 15,
+    "prize": 40000000,
+    "playtime": 155
+  },
+  {
+    "name": "Gombóc Artúr",
+    "level": 11,
+    "prize": 3000000,
+    "playtime": 117
+  },
+  {
+    "name": "Gyuri",
+    "level": 4,
+    "prize": 0,
+    "playtime": 54
+  }
+]

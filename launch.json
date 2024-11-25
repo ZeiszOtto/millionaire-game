@@ -1,0 +1,51 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Millionaire Game",
+            "request": "launch",
+            "mainClass": "millionaire.Main",
+            "projectName": "millionaire-game",
+            "vmArgs": "",
+            "args": [],
+            "env": {},
+            "console": "internalConsole"
+        },
+        {
+            "type": "java",
+            "name": "Launch Millionaire Game (Developer Mode)",
+            "request": "launch",
+            "mainClass": "millionaire.Main",
+            "projectName": "millionaire-game",
+            "vmArgs": "",
+            "args": ["dev"],
+            "env": {},
+            "console": "internalConsole"
+        },
+        {
+            "type": "java",
+            "name": "Debug Millionaire Game",
+            "request": "launch",
+            "mainClass": "millionaire.Main",
+            "projectName": "millionaire-game",
+            "vmArgs": "",
+            "args": [],
+            "env": {},
+            "console": "internalConsole",
+            "stopOnEntry": false
+        },
+        {
+            "type": "java",
+            "name": "Debug Millionaire Game (Developer Mode)",
+            "request": "launch",
+            "mainClass": "millionaire.Main",
+            "projectName": "millionaire-game",
+            "vmArgs": "",
+            "args": ["dev"],
+            "env": {},
+            "console": "internalConsole",
+            "stopOnEntry": false
+        }
+    ]
+}

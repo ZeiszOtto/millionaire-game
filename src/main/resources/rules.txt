@@ -1,0 +1,18 @@
+Üdvözöllek a Legyen Ön is Milliomos! kvízjátékomban, aminek a szabályait és használati utasíását olvashatod itt.
+
+Az "Új játék" gombraa kattintva, ha megadod a neved el is kezdődik a játék.
+A játék során 15, nehézségben egyre növekvő kérdést kapsz és a célod, hogy mind a 15 kérdést helyesen megválaszold.
+Ha ez sikerül, magaddal viheted a 40.000.000 Ft főnyereményt, de ha ez nem sikerül, akkor is számíthatsz nyereményre, ugyanis a "nyereménylétrán" több szint is van, amit ha átlépsz megillet egy garantált nyeremény.
+Ezek az alábbiak:
+    (5. szint) 100.000 Ft
+    (8. szint) 500.000 Ft
+    (11. szint) 3.000.000 Ft
+    (13. szint) 10.000.000 Ft
+    (15. szint) 40.000.000 Ft
+
+Ha egy kérdésben elakadnál az alábbi segítségeket használhatod:
+(Felezés) Lefelezi a válaszlehetőségeket, így kettő marad ami közül egy a helyes válasz.
+(Közönség szavazás) Megadja, hogy a közönség melyik választ mennyire tartja helyesnek, azonban megtörténhet, hogy egy rossz választ gondolnak a legtöbben helyesnek!
+Tartsd észben hogy mindkét segítséget 1-1 alkalommal használhatod csak, így érdemes a nehezebb kérdésekre tartogatni!
+
+A jobb felső sarokban egy időzítőt is látsz, ez megmutatja mennyit időt töltöttél el a játék kezdete óta.
